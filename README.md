@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Mohamed Mohy
-🧑‍💻 Python Developer | 📊 Data Analysist | ⚙️ Ai enginear
+#  Hi, I'm Mohamed Mohy
+ Python Developer |  Data Analysist |  Ai enginear
 
 
-## 🌟 About Me
-- 🤖 I’m currently working on Data Science Track.
-- 🧠 I’m learning Python for Desktop Apps and Ai projects.
-- 🚀 I’m passionate about coding and building cool projects.
+##  About Me
+-  I’m currently working on Data Science Track.
+-  I’m learning Python for Desktop Apps and Ai projects.
+-  I’m passionate about coding and building cool projects.
 
-## 💻 Skills
+##  Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60"/>
@@ -25,13 +25,15 @@
 </p>
 
 
-## 📈 GitHub Stats
+##  GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=dark)  
 
-### 🎯 Commit Streak:
+###  Commit Streak:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=dark)  
 
 
 
-## 📫 Contact Me
+##  Contact Me
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmadmohy52@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201110037173)
+
