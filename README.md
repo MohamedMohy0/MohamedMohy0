@@ -36,5 +36,4 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmadmohy52@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201110037173)
 
-![snake gif](https://github.com/MohamedMohy0/MohamedMohy0/blob/output/github-contribution-grid-snake.svg)
 
