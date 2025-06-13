@@ -1,11 +1,4 @@
-#  Hi, I'm Mohamed Mohy
- Python Developer |  Data Analysist |  Ai enginear
-
-
-##  About Me
--  I’m currently working on Data Science Track.
--  I’m learning Python for Desktop Apps and Ai projects.
--  I’m passionate about coding and building cool projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Mohamed+Mohy.;Python+Developer;Data+Analysist;Ai+enginear)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight)
 
