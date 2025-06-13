@@ -34,7 +34,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=tokyonight)  
 
 ###  Commit Streak:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=tokyonight)
 
 
 ##  Contact Me
