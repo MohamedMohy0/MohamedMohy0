@@ -4,7 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedMohy0)](https://github.com/ryo-ma/github-profile-trophy)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ##  Skills
