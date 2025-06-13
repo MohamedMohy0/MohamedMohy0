@@ -31,10 +31,10 @@
 
 
 ##  GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=merko)  
 
 ###  Commit Streak:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=tokyonight)  
 
 
 
