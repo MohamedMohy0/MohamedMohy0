@@ -4,7 +4,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight)
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ##  Skills
@@ -31,6 +30,7 @@
 ###  Commit Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=tokyonight)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ##  Contact Me
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmadmohy52@gmail.com)
