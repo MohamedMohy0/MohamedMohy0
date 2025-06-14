@@ -9,20 +9,20 @@
 
 ##  Skills
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="40" height="40" title="Streamlit"/>
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/images/logo.png" width="40" height="40" title="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Plotly_logo.png" width="40" height="40" title="Plotly"/>
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" height="40" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40" title="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" title="TensorFlow"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation/img/logo_single.png" width="40" height="40" title="CustomTkinter"/>
-  <img src="https://seeklogo.com/images/P/pyautogui-logo-58D9866A85-seeklogo.com.png" width="40" height="40" title="PyAutoGUI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyAutoGUI-464646?style=for-the-badge"/>
 </p>
 
 
