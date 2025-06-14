@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&width=435&lines=Hi%2C+I'm+Mohamed+Mohy.;Python+Developer;Data+Analysist;Ai+enginear)](https://git.io/typing-svg)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight)
 
 
 
