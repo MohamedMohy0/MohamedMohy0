@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/CustomTkinter-1E1E1E?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## 📊 Featured Project
+##  Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedMohy0&repo=Chat_Math&title_color=1a1b26&text_color=4b5263&icon_color=8aadf4&bg_color=ffffff&border_color=e5e9f0)](https://github.com/MohamedMohy0/Chat_Math)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedMohy0&repo=Chat_Math&title_color=8aadf4&text_color=a9b1d6&icon_color=7dcfff&bg_color=1a1b26&border_color=414868)](https://github.com/MohamedMohy0/Chat_Math)
 
 
 ##  GitHub Stats
