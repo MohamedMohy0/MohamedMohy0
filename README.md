@@ -8,22 +8,35 @@
 
 
 ##  Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40" height="40" title="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" title="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" title="Scikit-Learn"/>
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40" height="40" title="Plotly"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40" title="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation/img/logo_single.png" width="40" height="40" title="CustomTkinter"/>
-  <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/pyautogui/logo.png" width="40" height="40" title="PyAutoGUI"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
+  <img width="10" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="35" alt="Streamlit" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="Selenium"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="35" alt="Pandas" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="35" alt="Scikit-Learn" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="35" alt="PyTorch" />
+  <img width="10" />
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="35" alt="Plotly"/>
+  <img width="10" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="35" alt="Matplotlib"/>
+  <img width="10" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" alt="Seaborn"/>
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation/img/logo_single.png" height="35" alt="CustomTkinter"/>
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/pyautogui/logo.png" height="35" alt="PyAutoGUI"/>
+</div>
 
 
 ##  Featured Project
