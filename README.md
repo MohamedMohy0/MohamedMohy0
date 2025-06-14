@@ -10,29 +10,30 @@
 ##  Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
-  <img width="20" />
+  <img width="10" />
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="35" alt="Streamlit" />
-  <img width="20" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="Selenium"/>
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="35" alt="Pandas" />
-  <img width="20" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="35" alt="Scikit-Learn" />
-  <img width="20" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow"/>
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="35" alt="PyTorch" />
-  <img width="20" />
+  <img width="10" />
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="35" alt="Plotly"/>
-  <img width="20" />
+  <img width="10" />
   <img src="https://matplotlib.org/_static/images/logo2.svg" height="35" alt="Matplotlib"/>
-  <img width="20" />
+  <img width="10" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" alt="Seaborn"/>
 </div>
+
 
 
 ##  Featured Project
