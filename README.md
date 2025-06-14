@@ -25,7 +25,7 @@
 
 ##  Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedMohy0&repo=Chat_Math&title_color=8aadf4&text_color=a9b1d6&icon_color=7dcfff&bg_color=1a1b26&border_color=414868)](https://github.com/MohamedMohy0/Chat_Math)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedMohy0&repo=Chat_Math&title_color=70a5fd&text_color=38bdae&icon_color=ae85de&bg_color=1a1b26&border_color=414868)](https://github.com/MohamedMohy0/Chat_Math)
 
 
 ##  GitHub Stats
