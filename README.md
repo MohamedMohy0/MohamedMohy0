@@ -11,6 +11,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=r" height="35" alt="R" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
