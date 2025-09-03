@@ -34,6 +34,9 @@
   <img src="https://matplotlib.org/_static/images/logo2.svg" height="35" alt="Matplotlib"/>
   <img width="10" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" alt="Seaborn"/>
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain_logo.svg" height="35" alt="LangChain" />
+
 </div>
 
 
