@@ -35,7 +35,7 @@
   <img width="10" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35" alt="Seaborn"/>
   <img width="10" />
-<img src="path/to/langchain-logo.svg" height="35" alt="LangChain" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/LangChain_Logo.svg" height="35" alt="LangChain" />
 
 </div>
 
