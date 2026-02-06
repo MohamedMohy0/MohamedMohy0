@@ -1,50 +1,64 @@
-<div align="center">
+# Hi there! I'm Mohamed Mohy <img src="https://media.giphy.com/media/hvRJCLzPaCUE/giphy.gif" width="25px">
 
-# 🌌 Mohamed Mohy
-### Python Developer • AI Engineer • Data Analyst
+<p align="left">
+  <a href="https://mohamedmohy0.github.io/Portofolio/">
+    <img src="https://img.shields.io/badge/Check%20Out%20My-Portfolio-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedmohy0.github.io/Portofolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Building+Intelligent+Apps;Data+Driven+Solutions;Neural+Network+Architect" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=400&color=70a5fd&width=435&lines=Python+Developer;Data+Analyst;AI+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Specialized In
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,r" alt="Data & AI" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium,fastapi,streamlit" alt="Tools" />
+### 🚀 About Me
+- 🧠 I specialize in **Artificial Intelligence** and **Machine Learning**.
+- 📊 Passionate about turning complex data into actionable insights.
+- 🛠️ Building intelligent bots and scalable automation tools.
+- 🌐 Explore my work in detail: **[mohamedmohy0.github.io/Portofolio/](https://mohamedmohy0.github.io/Portofolio/)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,html,css" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="48" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium" alt="Tools" />
 </p>
 
 ---
 
-### 📂 Featured Showcase
-*Turning complex data into simple interfaces.*
+### 🌟 Featured Projects
 
-| <a href="https://github.com/MohamedMohy0/MedicalChatBot">**Medical ChatBot**</a> | <a href="https://github.com/MohamedMohy0/Chat_Math">**Chat Math**</a> | <a href="https://github.com/MohamedMohy0/Image-classfication">**Image Classifier**</a> |
-| :---: | :---: | :---: |
-| ![Bot](https://img.shields.io/badge/LLM-RAG-blueviolet) | ![Math](https://img.shields.io/badge/NLP-SymPy-blue) | ![Vision](https://img.shields.io/badge/CV-CNN-success) |
-| A diagnostic assistant built with Deep Learning. | Conversational AI for solving complex math. | Real-time object and image recognition. |
-
----
-
-### 📊 GitHub Ecosystem
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=MohamedMohy0&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Medical ChatBot** | An AI-powered assistant for healthcare queries. | [Repo](https://github.com/MohamedMohy0/MedicalChatBot) |
+| **Chat Math** | Intelligent solver for mathematical expressions. | [Repo](https://github.com/MohamedMohy0/Chat_Math) |
+| **Image Classification** | Computer Vision model using Deep Learning. | [Repo](https://github.com/MohamedMohy0/Image-classfication) |
 
 ---
 
-### 📫 Let's Collaborate
-*Interested in AI, Automation, or Data Science?*
+### 📈 GitHub Analytics
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohmmadmohy52@gmail.com)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+201110037173)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedMohy0&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400" />
+### 📬 Let's Connect
+<p align="left">
+  <a href="mailto:mohmmadmohy52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/+201110037173"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
