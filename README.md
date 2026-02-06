@@ -43,14 +43,13 @@
 ---
 
 ### 📈 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedMohy0&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedMohy0&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MohamedMohy0&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
