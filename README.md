@@ -1,7 +1,7 @@
 # Hi there! I'm Mohamed Mohy <img src="https://media.giphy.com/media/hvRJCLzPaCUE/giphy.gif" width="25px">
 
 <p align="left">
-  <a href="https://mohamedmohy0.github.io/Portofolio/">
+  <a href="https://mohamed-mohy-protofilio.vercel.app/">
     <img src="https://img.shields.io/badge/Check%20Out%20My-Portfolio-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 - 🧠 I specialize in **Artificial Intelligence** and **Machine Learning**.
 - 📊 Passionate about turning complex data into actionable insights.
 - 🛠️ Building intelligent bots and scalable automation tools.
-- 🌐 Explore my work in detail: **[mohamedmohy0.github.io/Portofolio/](https://mohamedmohy0.github.io/Portofolio/)**
+- 🌐 Explore my work in detail: **[mohamedmohy0.github.io/Portofolio/](https://mohamed-mohy-protofilio.vercel.app/)**
 
 ---
 
