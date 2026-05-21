@@ -38,7 +38,7 @@
 | :--- | :--- | :--- |
 | **Medical ChatBot** | An AI-powered assistant for healthcare queries. | [Repo](https://github.com/MohamedMohy0/MedicalChatBot) |
 | **Chat Math** | Intelligent solver for mathematical expressions. | [Repo](https://github.com/MohamedMohy0/Chat_Math) |
-| **Image Classification** | Computer Vision model using Deep Learning. | [Repo](https://github.com/MohamedMohy0/Image-classfication) |
+| **LLMs-Prompt-Project** | An experimental study evaluating prompt engineering techniques | [Repo](https://github.com/MohamedMohy0/LLMs-Prompt-Project) |
 
 ---
 
